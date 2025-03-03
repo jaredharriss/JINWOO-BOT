@@ -15,7 +15,7 @@ if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 
 
 //=================================================//
-global.SESSION_ID = process.env.SESSION_ID || '' 
+global.SESSION_ID = process.env.SESSION_ID || 'Jinwoo-Bot:~NxAC3aaJ#IPtcmS3f9O8PcFl6bwTFtvpoeZM3seL0lxqnwjzowgY' 
 //Enter your Xploader session id here; must start with Jinwoo-Bot:~
 
 //=================================================//
@@ -23,7 +23,7 @@ global.botname = process.env.BOT_NAME || 'ᎫᏆΝᏔϴϴ ᏴϴͲ'
 //Your desired bot name
 
 //=================================================//
-global.ownernumber = process.env.OWNER_NUMBER || '263714757857' 
+global.ownernumber = process.env.OWNER_NUMBER || '254723814944' 
 //Type your main number here
 
 //=================================================//
